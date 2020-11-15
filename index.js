@@ -1,1 +1,1 @@
-const discord
+const Discord = require('discord.js');
